@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@azure/functions": "^4.0.0",
+    "@azure/identity": "^4.4.1",
+    "@azure/keyvault-secrets": "^4.8.0",
     "google-auth-library": "^9.14.1"
   },
   "devDependencies": {
